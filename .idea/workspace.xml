@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f02e15a8-47be-4650-ab59-0d3884e9bcab" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/practice_code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anagram_evaluation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bomberman_hacker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/correct_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypher_rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary_problem_solving.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kadean_algorithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kaden_max_sunarrary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/longest_alternating_string.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_window-substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefix_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reverse_array_solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sliding_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textwrap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timedelta.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2lw27o1quVoVY00YFoGRojinHoh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.3D_surface_area.executor": "Run",
+    "Python.absolute_permutation.executor": "Run",
+    "Python.adding_array.executor": "Run",
+    "Python.alphabet_rangoli.executor": "Run",
+    "Python.anagram_evaluation.executor": "Run",
+    "Python.beautiful_integer_string.executor": "Run",
+    "Python.birthday_candle.executor": "Run",
+    "Python.birthday_chocolate_share.executor": "Run",
+    "Python.bomberman_hacker.executor": "Run",
+    "Python.breaking_record_score.executor": "Run",
+    "Python.capitalize_fullname_initialword.executor": "Run",
+    "Python.cavity_in)matrix.executor": "Run",
+    "Python.checking_words_in_string_seq.executor": "Run",
+    "Python.class_basic_object.executor": "Run",
+    "Python.concatenate_numpy.executor": "Run",
+    "Python.correct_password.executor": "Run",
+    "Python.count_apple_orange.executor": "Run",
+    "Python.count_majority.executor": "Run",
+    "Python.count_occurance.executor": "Run",
+    "Python.count_peak_in_array.executor": "Run",
+    "Python.count_score (1).executor": "Run",
+    "Python.count_substring.executor": "Run",
+    "Python.counting_shift_in_sorting.executor": "Run",
+    "Python.cypher_rotate.executor": "Run",
+    "Python.debug_code_count_score.executor": "Run",
+    "Python.dictionary_problem_solving.executor": "Run",
+    "Python.different_in_message_sos.executor": "Run",
+    "Python.door_mat_design.executor": "Run",
+    "Python.find_256day.executor": "Run",
+    "Python.find_duplicate_elm.executor": "Run",
+    "Python.find_unique_substring.executor": "Run",
+    "Python.find_weight_char_query.executor": "Run",
+    "Python.fing_cavity_in_grid.executor": "Run",
+    "Python.hackerrank_array.executor": "Run",
+    "Python.hourglass_matrix.executor": "Run",
+    "Python.insert_input_list.executor": "Run",
+    "Python.integer_factor_two_array.executor": "Run",
+    "Python.is_palindrome.executor": "Run",
+    "Python.is_pangram.executor": "Run",
+    "Python.kadean_algorithm.executor": "Run",
+    "Python.kaden_max_sunarrary.executor": "Run",
+    "Python.kangaroos_jump.executor": "Run",
+    "Python.large_int.executor": "Run",
+    "Python.leaderborad_ranking..executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.longest_alternating_string.executor": "Run",
+    "Python.magic_square.executor": "Run",
+    "Python.mapping_anagram.executor": "Run",
+    "Python.matrix_operation.executor": "Run",
+    "Python.median_sort.executor": "Run",
+    "Python.migratory_bird.executor": "Run",
+    "Python.minimum_window-substring.executor": "Run",
+    "Python.playing_with_json.executor": "Run",
+    "Python.potion_required.executor": "Run",
+    "Python.powerful_python_course.executor": "Run",
+    "Python.prefix_string.executor": "Run",
+    "Python.prefix_sum.executor": "Run",
+    "Python.print_formated.executor": "Run",
+    "Python.print_triangle_number.executor": "Run",
+    "Python.problem_solvinf1.executor": "Run",
+    "Python.queries_string.executor": "Run",
+    "Python.ranking.executor": "Run",
+    "Python.remove_duplicate_twopinter.executor": "Run",
+    "Python.reverse_array_solution (1).executor": "Run",
+    "Python.reversed_array.executor": "Run",
+    "Python.review1.executor": "Run",
+    "Python.roman_to_integer_and.executor": "Run",
+    "Python.rotate_arr.executor": "Run",
+    "Python.slidingWindow_max_average.executor": "Run",
+    "Python.sliding_window.executor": "Run",
+    "Python.sorting.executor": "Run",
+    "Python.string_similarity.executor": "Run",
+    "Python.sub_array_sum.executor": "Run",
+    "Python.target_equall_two_array.executor": "Run",
+    "Python.textwrap.executor": "Run",
+    "Python.timedelta.executor": "Run",
+    "Python.turning_page_book.executor": "Run",
+    "Python.two_pointer_palindrome.executor": "Run",
+    "Python.unique_num.executor": "Run",
+    "Python.valid_parenthasis.executor": "Run",
+    "Python.valid_parenthesis.executor": "Run",
+    "Python.valley_count.executor": "Run",
+    "Python.vowel_change_in_string.executor": "Run",
+    "Python.webviews.executor": "Run",
+    "Python.webviews_own.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Course_work/powerful_python/course_one/Courseware-OOP/labs/lab_ownwork"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.prefix_sum">
+    <configuration name="is_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/is_palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kadean_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kadean_algorithm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prefix_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prefix_sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sliding_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sliding_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unique_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice_code" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unique_num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prefix_sum" />
+        <item itemvalue="Python.is_palindrome" />
+        <item itemvalue="Python.sliding_window" />
+        <item itemvalue="Python.kadean_algorithm" />
+        <item itemvalue="Python.unique_num" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f02e15a8-47be-4650-ab59-0d3884e9bcab" name="Changes" comment="" />
+      <created>1726076654003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726076654003</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/count_score.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
